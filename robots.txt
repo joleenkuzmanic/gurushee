@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://veicaekao.alison.yoga/sitemap.xml
